@@ -1,4 +1,4 @@
-# Palindrome Checker
+# Verificador de Palíndromo
 Projeto criado no curso de JavaScript da plataforma freeCodeCamp
 ## Linguagem
 JavaScript
